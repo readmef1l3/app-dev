@@ -4,7 +4,7 @@ My first repository
 	**GINTAMA**
 
 FOR ME GINTAMA IS THE  ==GOAT== :smirk:.
-Gintama is without a doubt a well-written show which brilliantly incorporates humor and serious elements. With references from different Shonen anime from the Big Three to JoJo's Bizarre Adventure and astute wordplay, Gintama offers high-quality humor:underage:.
+Gintama is without a doubt a well-written show which brilliantly incorporates humor and serious elements. With references from different Shonen anime from the Big Three to JoJo's Bizarre Adventure and astute wordplay, Gintama offers high-quality humor:underage:.   [Gintama ALL OPENINGS](https://www.youtube.com/watch?v=43ltkvgMu8o&t=8s)
 
 	**CHARACTERS**
 <dl>
