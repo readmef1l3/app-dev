@@ -1,12 +1,12 @@
 # app-dev
 My first repository
-# WASUUUPP
-**GINTAMA**
+ *WASUUUPP*
+##				**GINTAMA**
 
-FOR ME ~~ONE PIECE~~ *GINTAMA* IS THE  ==GOAT== :smirk:.
+FOR ME ~~ONE PIECE~~ **GINTAMA** IS THE  ==GOAT== :smirk:.
 Gintama is without a doubt a well-written show which brilliantly incorporates humor and serious elements. With references from different Shonen anime from the Big Three to JoJo's Bizarre Adventure and astute wordplay, Gintama offers high-quality humor:underage:.   [Gintama ALL OPENINGS](https://www.youtube.com/watch?v=43ltkvgMu8o&t=8s)
 
-**CHARACTERS**
+###				**CHARACTERS**
 <dl>
   <dt>GINTOKI</dt>
   <dd>is the protagonist of the series and his name serves as part of the basis of the series. He is the founder and president of the Yorozuya,</dd>
